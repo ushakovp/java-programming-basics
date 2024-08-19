@@ -1,0 +1,9 @@
+Установить последнюю версию среды разработки
+(IntelliJ Idea Community Edition) на свой компьютер:
+
+https://www.jetbrains.com/idea/
+
+#### Поддержка, вопросы и обратная связь по проекту
+* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (javagurulv)
+* [Емейл автора курса] (viktor.savonin@gmail.com)

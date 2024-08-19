@@ -1,0 +1,16 @@
+Найдите ошибку в программе и исправить её:
+(переменная numbers должна ссылаться на массив byte)
+
+class ArrayDefinition2 {
+
+    public static void main(String[] args) {
+        int numbers = new byte[10];
+    }
+
+}
+
+
+#### Поддержка, вопросы и обратная связь по проекту
+* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (javagurulv)
+* [Емейл автора курса] (viktor.savonin@gmail.com)

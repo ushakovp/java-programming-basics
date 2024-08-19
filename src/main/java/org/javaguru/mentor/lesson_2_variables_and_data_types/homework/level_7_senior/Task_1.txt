@@ -1,0 +1,17 @@
+Заставьте эту программу работать!
+
+class NoSleepNoFocus {
+    public static void main(String[] args) {
+        System.out.println(I wanna coffee);
+        System.out.println("So bad);
+    }
+}
+
+Цель этого задания: обратить ваше внимание на то,
+что текст (строка) в языке программирования Java
+пишется в двойных кавычках.
+
+#### Поддержка, вопросы и обратная связь по проекту
+* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (javagurulv)
+* [Емейл автора курса] (viktor.savonin@gmail.com)

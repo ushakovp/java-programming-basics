@@ -1,0 +1,50 @@
+Найти ошибку в коде.
+Исправить и запустить программу.
+
+class BankAccount {
+
+    private String ownerFirstName;
+    private String ownerLastName;
+    private int moneyAmount;
+
+    BankAccount(String ownerFirstName,
+                String ownerLastName
+                int moneyAmount) {
+        this.ownerFirstName = ownerFirstName;
+        this.ownerLastName = ownerLastName;
+        this.money = money;
+    }
+
+    String getOwnerFirstName( {
+        return this.ownerFirstName
+    }
+
+    String getOwnerLastName) {
+        return this.ownerFirstName
+    }
+
+    void getMoneyAmount() {
+        return this.moneyAmount;
+    }
+
+}
+
+class BankAccountDemo {
+
+    public static void main(String[] args) {
+        BankAccount bankAccount = new BankAccount("Viktor", "Popov", 100000);
+        String ownerFirstName = bankAccount.getOwnerFirstName();
+        String ownerLastName = bankAccount.getOwnerLastName();
+        String moneyAmount = bankAccount.getMoneyAmount();
+        System.out.println("Owner first name = " + ownerFirstName);
+        System.out.println("Owner last name = " + ownerLastName);
+        System.out.println("Money amount = " + moneyAmount);
+    }
+
+}
+
+
+#### Поддержка, вопросы и обратная связь по проекту
+* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (javagurulv)
+* [Емейл автора курса] (viktor.savonin@gmail.com)

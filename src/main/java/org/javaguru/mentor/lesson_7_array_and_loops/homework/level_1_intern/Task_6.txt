@@ -1,0 +1,16 @@
+Найдите логическую ошибку в программе и исправить её:
+
+class ArrayLength1 {
+
+    public static void main(String[] args) {
+        int[] numbers = new int[1];
+        System.out.println(numbers[-1]);
+    }
+
+}
+
+
+#### Поддержка, вопросы и обратная связь по проекту
+* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (javagurulv)
+* [Емейл автора курса] (viktor.savonin@gmail.com)
