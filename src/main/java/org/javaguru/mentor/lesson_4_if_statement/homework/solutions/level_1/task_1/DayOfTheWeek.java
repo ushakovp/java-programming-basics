@@ -1,4 +1,4 @@
-package org.javaguru.mentor.lesson_4_if_statement.homework.solutions.level_1_intern.task_1;
+package org.javaguru.mentor.lesson_4_if_statement.homework.solutions.level_1.task_1;
 
 import java.util.Scanner;
 

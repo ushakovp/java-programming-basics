@@ -1,4 +1,4 @@
-package org.javaguru.mentor.lesson_4_if_statement.homework.solutions.level_4_junior.task_1;
+package org.javaguru.mentor.lesson_4_if_statement.homework.solutions.level_4.task_1;
 
 class Stock {
 
