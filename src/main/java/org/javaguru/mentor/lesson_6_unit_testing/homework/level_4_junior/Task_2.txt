@@ -26,4 +26,4 @@ https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D
 #### Поддержка, вопросы и обратная связь по проекту
 * [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
 * [Телеграмм автора курса] (javagurulv)
-* [Емейл автора курса] (viktor.savonin@gmail.com)
+* [Емейл автора курса] (javagurulv@gmail.com)
