@@ -1,8 +1,5 @@
 package org.javaguru.mentor.lesson_8_project_school_dairy.lessoncode;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class BusinessLogicTest {
 
     public static void main(String[] args) {

@@ -5,23 +5,23 @@ import java.util.List;
 
 class BusinessLogic {
 
-    private Dairy dairy;
+    private SchoolDairy schoolDairy;
 
     public BusinessLogic() {
-        this.dairy = new Dairy();
+        this.schoolDairy = new SchoolDairy();
     }
 
     public void addMark(String subject, int mark) {
         Mark newMark = new Mark(subject, mark);
-        dairy.addMark(newMark);
+        schoolDairy.addMark(newMark);
     }
 
     public List<Mark> getAllMarks() {
-        return dairy.getMarks();
+        return schoolDairy.getMarks();
     }
 
     public int findMarksBySubjectStream(String subject) {
-        return dairy.getMarks().stream()
+        return schoolDairy.getMarks().stream()
                 .filter(mark -> mark.getSubject().equals(subject))
                 .map(mark -> mark.getMark())
                 .max(Integer::compareTo)
@@ -43,7 +43,7 @@ class BusinessLogic {
         }
 */
 
-        for (Mark mark : dairy.getMarks()) {
+        for (Mark mark : schoolDairy.getMarks()) {
             if (mark.getSubject().equals(subject)) {
                 subjectMarks.add(mark);
             }
