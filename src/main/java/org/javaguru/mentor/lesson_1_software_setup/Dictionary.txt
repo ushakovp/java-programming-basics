@@ -1,0 +1,6 @@
+IDE - Integrated Development Environment
+VCS - Version Control System
+Git
+GitHub
+JDK - Java Development Kit
+SDK - Software Development Kit
