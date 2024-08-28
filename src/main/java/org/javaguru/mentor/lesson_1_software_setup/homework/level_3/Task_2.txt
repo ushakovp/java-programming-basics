@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=vFj2-bKGwkw
 GitHub для новичков:
 https://www.youtube.com/watch?v=JfpCicDUMKc
 
-#### Поддержка, вопросы и обратная связь по проекту
-* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
-* [Телеграмм автора курса] (javagurulv)
+#### Поддержка, вопросы и обратная связь по курсу
+* [Телеграмм группа курса](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (@javagurulv)
 * [Емейл автора курса] (javagurulv@gmail.com)

@@ -5,7 +5,7 @@ https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-
 Если уже открывали какой-либо проект, то необходимо выбрать:
 File --> New --> Project From Version Control...
 
-#### Поддержка, вопросы и обратная связь по проекту
-* [Телеграмм группа проекта](https://t.me/+YmrodVgEq88xYjU0)
-* [Телеграмм автора курса] (javagurulv)
+#### Поддержка, вопросы и обратная связь по курсу
+* [Телеграмм группа курса](https://t.me/+YmrodVgEq88xYjU0)
+* [Телеграмм автора курса] (@javagurulv)
 * [Емейл автора курса] (javagurulv@gmail.com)
