@@ -1,7 +1,7 @@
-Подключите к среде разработки IntelliJ Idea
-JDK версии 21:
+Подключите к среде разработки IntelliJ Idea JDK версии 21:
 
-SDK: corretto-21 Amazon Corretto version 21.0.3
+SDK: corretto-21 Amazon Corretto любой версии
+
 Language level: SDK default
 
 
